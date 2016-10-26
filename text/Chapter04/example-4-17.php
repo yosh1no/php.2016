@@ -1,3 +1,4 @@
+<?php
 $dishes['Beef Chow Foon'] = 12;
 $dishes['Beef Chow Foon']++;
 $dishes['Roast Duck'] = 3;
